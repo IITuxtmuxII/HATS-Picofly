@@ -33,6 +33,9 @@
  ###### Payloads:
  - [x] Lockpick_RCM
  - [x] picofly_toolbox_0.2
+ - [x] hwfly_toolbox
+ - [x] Instinct-NX_toolbox
+ - [x] TegraExplorer
  - [x] prodinfo_gen
 
 #### *I server Nintendo sono stati bloccati preventivamente e il seriale della console è stato sbiancato per ridurre al minimo il rischio di ban.*
